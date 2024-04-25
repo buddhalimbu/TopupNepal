@@ -1,0 +1,15 @@
+.topuplogo {
+  padding: 10px;
+  height:200px;
+  background: red;
+  overflow: visible;
+  display:none
+}
+
+.topuplogo img {
+  width:10px;
+  display:none;
+  height:10px;
+
+  
+}
