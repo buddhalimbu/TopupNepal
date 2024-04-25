@@ -181,3 +181,22 @@ td.text-center {
 td.text-right {
   text-align: right;
 }
+.payment-methods {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: none
+}
+
+.payment-method {
+  margin: 0 8px;
+  text-align: center;
+}
+
+.payment-method img {
+  width: 70px;
+  height: auto;
+}
+
+
+  
